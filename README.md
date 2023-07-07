@@ -1,5 +1,5 @@
 <h1 align="center">Ing Omar Sánchez Hernández⚡</h1>
-<img width="512" height="512" src="https://img.icons8.com/nolan/512/github.png" alt="github" width="40" height="40"/>
+<img src="https://img.icons8.com/nolan/512/github.png" alt="github" width="40" height="40"/>
 <h2 align="center">¡Bienvenido a mi portafolio de GitHub!</h2>
 <img align="center" alt="Coding" width="1200" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
 <h3 align="center">Soy un apasionado del desarrollo de aplicaciones móviles nativas, y mi objetivo es crear experiencias fluidas y de alta calidad para los usuarios. Me especializo en el desarrollo utilizando tecnologías como Java, Kotlin y el desarrollo multiplataforma con Xamarin Forms, Maui y Flutter.</h3>
