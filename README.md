@@ -1,4 +1,4 @@
-<h1  align="center"> <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/android-os.png" alt="android-os"/> Ing Omar Sánchez Hernández⚡ <img src="https://img.icons8.com/nolan/512/github.png" alt="github" width="80" height="80"/></h1>
+<h1  align="center"> <img width="80" height="80" src="https://img.icons8.com/3d-fluency/94/android-os.png" alt="android-os"/> Ing Omar Sánchez Hernández⚡ <img src="https://img.icons8.com/nolan/512/github.png" alt="github" width="80" height="80"/></h1>
 
 <h2 align="center">¡Bienvenido a mi portafolio de GitHub!</h2>
 <img align="center" alt="Coding" width="1200" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
