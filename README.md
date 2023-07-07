@@ -14,23 +14,40 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Desarrollador en Rational Software Colombia,de igual manera desarrollador backend con Spring Boot y NetCore API **ICFES,Bolsa Mercantil de Colombia,Cirec,SurEnvios,Cemex,PaymentsWay,Payep,SurEnvios,Cotrasangil**
-
 
 - 🌱 Estudie la Ingenieria en Informatica en el Instituto Politecnico Nacional en la Unidad Profesional Interdiciplinaria de Ingenieria Ciencias Sociales  y Administrativas UPIICSA**
 
-- 🌱 Actualmente estoy formandome en cursos de udemy **Universidad Spring - Spring Framework y Spring Boot!,Entity Framework Core y SQL Server/MySQL desde cero,Android y Kotlin Desde Cero a Profesional Completo +45 horas
-**
+- 📱 Soy Integrante de la Gerencia de Sistemas en Grupo Bimbo en el Area de desarrollo de Android y sus sistemas de **T-Conecta** 
 
-- 🌱 Soy Desarrollador movil en Grupo Bimbo en el desarrollo de **T-Conecta**
+- 🇨🇴 Desarrollador en Rational Software Colombia,de igual manera desarrollador backend con Spring Boot y NetCore API **ICFES,Bolsa Mercantil de Colombia,Cirec,SurEnvios,Cemex,PaymentsWay,Payep,SurEnvios,Cotrasangil**
 
-- 🤝 Desarrollador movil Empresa de TaxisUnidos
+- 📖 Actualmente estoy formandome en cursos de udemy **Universidad Spring - Spring Framework y Spring Boot!,Entity Framework Core y SQL Server/MySQL desde cero,Android y Kotlin Desde Cero a Profesional Completo +45 horas
 
-- 👨‍💻 Algunos proyectos estan disponibles en mi pagina web [https://www.roboticsmex.com/]
+Como Desarrollador Independiente algunos trabajos que he realizado son :
+
+- ✅ Desarrollador movil RDA (Paqueteria)
+ 
+- ✅ Desarrollador movil DrEnarm PlayStore
+  
+- ✅ Desarrollador movil Empresa de viajes TaxisUnidos Mexico Chihuahua
+
+- ✅ Desarrollador movil Empresa de viajes Cotrasangil Colombia Santander
+
+- ✅ Desarrollador movil Universidad de iztapalapa
+
+- ✅ Desarrollador web doallconsulting
+
+- ✅ Desarrollador web grupotexturarte
+
+- ✅ Desarrollador web hrcoaching
+
+- ✅ Desarrollador web refaccionaria el sitio
+
+- ✅ Algunos proyectos estan disponibles en mi pagina web [https://www.roboticsmex.com/]
 
 - 📝 Regularmente ayudo en grupos de Telegram [+52 562 790 413 7]
 
-- 📫 Puedes encontrarme en varias redes sociales por mi correo **omar1264ipn@gmail.com**
+- 📫 Puedes encontrarme en varias redes sociales por mis correos **omar1264ipn@gmail.com**, **ing.omarsanchezhernandez@gmail.com**
 
 <h3 align="left">Contactame :</h3>
 <p align="left">
