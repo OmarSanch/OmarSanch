@@ -1,5 +1,7 @@
 <h1 align="center">Ing Omar Sánchez Hernández⚡</h1>
-<h3 align="center">Me apasiona el desarrollo de aplicaciones móviles nativas utilizando tecnologías como Java, Kotlin y el desarrollo multiplataforma con Xamarin Forms, Maui y Flutter. Además, me apasiona trabajar en el desarrollo de microservicios del backend utilizando lenguajes de programación como Java con Spring Boot JPA, Hibernate, JPQL y C# con Net Core API</h3>
+<h2 align="center">¡Bienvenido a mi portafolio de GitHub!</h2>
+<h3 align="center">Soy un apasionado del desarrollo de aplicaciones móviles nativas, y mi objetivo es crear experiencias fluidas y de alta calidad para los usuarios. Me especializo en el desarrollo utilizando tecnologías como Java, Kotlin y el desarrollo multiplataforma con Xamarin Forms, Maui y Flutter.</h3>
+<h3 align="center">Mi experiencia en el desarrollo de aplicaciones móviles me ha permitido familiarizarme con el ecosistema de Android y iOS, y estoy constantemente actualizando mis habilidades para estar al tanto de las últimas tendencias y mejores prácticas. Creo en la importancia de la optimización del rendimiento, la usabilidad y la accesibilidad en cada una de mis aplicaciones.</h3>
 <p</p>
 <p</p>
 <p</p>
