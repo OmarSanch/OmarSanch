@@ -18,9 +18,13 @@
 
 - 🌱 Estudie la Ingenieria en Informatica en el Instituto Politecnico Nacional en la Unidad Profesional Interdiciplinaria de Ingenieria Ciencias Sociales  y Administrativas UPIICSA**
 
-- 📱 Soy Integrante de la Gerencia de Sistemas en Grupo Bimbo en el Area de desarrollo de Android y sus sistemas de **T-Conecta** 
+- 📱 Actualmente ocupo el cargo de Desarrollador Android Senior en Grupo Bimbo México en la Gerencia de Sistemas, donde trabajo en el producto **T-Conecta** 
 
 - 🇨🇴 Desarrollador en Rational Software Colombia,de igual manera desarrollador backend con Spring Boot y NetCore API **ICFES,Bolsa Mercantil de Colombia,Cirec,SurEnvios,Cemex,PaymentsWay,Payep,SurEnvios,Cotrasangil**
+
+- Desarrollador SonderShop Peru desarrollador movil nivel jrse desarrollo toda la aplicacion movil para android de la empresa de sondershop en el lenguaje java, se le dio soporte a diferentes modulos, aportando e innovando con nuevas ideas que ayudaran al producto
+
+- Desarrollador Bmex Mexico desarrollador jr en diferentes tecnologias como .net,java, php, bases de datos relacionales sqlserver, mysql, postgresql 
 
 - 📖 Actualmente estoy formandome en cursos de udemy **Universidad Spring - Spring Framework y Spring Boot!,Entity Framework Core y SQL Server/MySQL desde cero,Android y Kotlin Desde Cero a Profesional Completo +45 horas
 
